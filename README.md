@@ -56,4 +56,4 @@ The web application (`main_app.py`) empowers users to interact with the trained 
 - opencv-python-headless==4.5.3
 - tensorflow==2.7.0
 <br>
-***Note: the libraries are updated with time***
+*Note: the libraries are updated with time*
